@@ -23,4 +23,9 @@ class TodoListAdapter : RecyclerView.Adapter<TodoListViewHolder>() {
     override fun getItemCount(): Int {
         return lista.size
     }
+
+    fun addNewItem(message: String){
+        lista.add(message)
+        notifyDataSetChanged()
+    }
 }
