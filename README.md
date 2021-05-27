@@ -15,7 +15,7 @@ Learn the fundamental building blocks of Kotlin, through hands-on exercises and 
 
 ### Your Second Kotlin Android App
 In this course, you'll level up your Android skills by writing a task list managing app entirely in Kotlin. In it, you'll learn about Recycler Views, saving data, using multiple activities, integrating fragments, and Android Jetpack.
-- [ListMaker](./ListMaker/README.md)
+- [ListMaker](./ListMaker)
 
 ### Programming in Kotlin: Function & Custom Types
 Take a deeper look at the Kotlin programming language! Explore the intricacies of functions, lambdas, classes, objects, interfaces, and more.
