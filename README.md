@@ -1,5 +1,5 @@
 # Ray Wenderlich - Kotlin Projects
-This is a set of some projects used for the pratices on kotlin tutorials on Ray Wendelich website.
+This is a set of some projects used for the pratices on kotlin tutorials on Ray [Wendelich website](https://www.raywenderlich.com/android/paths).
 
 
 ## Android And Kotlin for Begginners
